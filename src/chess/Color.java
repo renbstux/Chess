@@ -1,4 +1,4 @@
-package model.enums;
+package chess;
 
 public enum Color {
 	
